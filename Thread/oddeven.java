@@ -1,3 +1,4 @@
+/* Java multithread program which has two threads to one to generate odd number and other to generate even numbers, it applies Thread Synchronization for displaying the numbers in order */
 class EvenNumber extends Thread
 {
    private EvenOddNumber ob;

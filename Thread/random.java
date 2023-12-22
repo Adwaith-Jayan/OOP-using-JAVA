@@ -1,3 +1,4 @@
+/* Java multihthread program which uses Thread communication to generate a random number, display its cube if its odd and square if it is even */
 import java.util.Random;
 class Data
 {
